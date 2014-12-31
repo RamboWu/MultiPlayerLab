@@ -1,0 +1,9 @@
+[Bb]inaries/
+[Dd]erivedDataCache/
+[Ii]ntermediate/
+[Ss]aved/
+
+/*.sdf
+/*.opensdf
+/*.suo
+/*.sln
